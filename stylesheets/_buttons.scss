@@ -1,0 +1,73 @@
+.button1 { 
+  	margin-top: 100px;
+    display: block;
+    width: 100px;
+    background: $default-lavender;
+    border: 2px solid $default-steel_blue;
+    border-radius: 40px;  
+	  padding-top: 10px;
+  	padding-bottom: 10px;
+  	text-align: center;
+    text-decoration: none;
+    color: $default-steel_blue;
+    font-family: $default-fun_font2;
+   	position: relative;
+  	top: 50%;
+  	transform: translateY(-50%);
+	  }
+
+
+.button2 {
+	  margin-top: 75px;
+    display: block;
+    width: 80px;
+    background-color: $default-electric_blue;
+    border: 2px solid $default-sky_blue;
+  	padding-top: 20px;
+    padding-bottom: 20px;
+  	text-align: center;
+    text-decoration: none;
+    color: $default-sky_blue;
+    font-family: $default-fun_font1;
+   	position: relative;
+  	top: 50%;
+  	transform: translateY(-50%);
+	  }
+
+
+	.button3 {
+	  margin-top: 50px;
+    display: block;
+    width: 120px;
+    background-color: $default-bright_pink;
+    border: 2px solid $default-light_pink; 
+	  padding-top: 20px;
+	  padding-bottom: 10px;
+	  text-align: center;
+    text-decoration: none;
+    color: $default-light_pink;
+    font-family: $default-fun_font2;
+   	position: relative;
+  	top: 50%;
+  	transform: translateY(-50%);
+	  }
+
+	  .button4 {
+	  margin-top: 75px;
+    display: block;
+    width: 100px;
+    border-radius: 100px;
+    background-color: $default-plum;
+    border: 2px solid $default-grey;
+	  padding-top: 40px;
+	  padding-bottom: 40px;
+	  text-align: center;
+    text-decoration: none;
+    color: $default-grey;
+    font-family: $default-fun_font3;
+   	position: relative;
+  	top: 50%;
+  	transform: translateY(-50%);
+	  }
+
+	 

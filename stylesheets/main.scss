@@ -1,0 +1,323 @@
+@import 'colors';
+@import 'fonts';
+@import 'buttons';
+
+body {
+	background-color: #FFFAF6;
+
+}
+
+h2 {
+	margin-left: 100px;
+	margin-top: 100px;
+	font-family: Arial;
+}
+
+.colors1 {
+	padding: 50px;
+	background-color: $default-orange;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 100px;
+	float: left;
+}
+
+
+.colors2 {
+	padding: 50px;
+	background-color: $default-bright_yellow;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 100px;
+	float: left;
+}
+
+
+.colors3 {
+	padding: 50px;
+	background-color: $default-lime_green;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 100px;
+	float: left;
+}
+
+
+
+.colors4 {
+	padding: 50px;
+	background-color: $default-red;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 100px;
+	float: left;
+}
+
+
+
+.colors5 {
+	padding: 50px;
+	background-color: $default-electric_blue;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 100px;
+	float: left;
+}
+
+
+
+.colors6 {
+	padding: 50px;
+	background-color: $default-bright_pink;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 100px;
+	float: left;
+}
+
+
+
+.colors7 {
+	padding: 50px;
+	background-color: $default-purple;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 100px;
+	float: left;
+}
+
+
+
+
+.colors8 {
+	padding: 50px;
+	background-color: $default-coral;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 100px;
+	float: left;
+}
+
+
+
+
+
+.colors9 {
+	padding: 50px;
+	background-color: $default-peach;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 100px;
+	float: left;
+}
+
+
+.colors10 {
+	padding: 50px;
+	background-color: $default-light_pink;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 100px;
+	float: left;
+}
+
+
+
+.colors11 {
+	padding: 50px;
+	background-color: $default-sky_blue;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 100px;
+	float: left;
+
+}
+
+
+
+.colors12 {
+	padding: 50px;
+	background-color: $default-lavender;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 100px;
+	float: left;
+}
+
+
+
+.colors13 {
+	padding: 50px;
+	background-color: $default-mint;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 100px;
+	float: left;
+}
+
+
+
+.colors14 {
+	padding: 50px;
+	background-color: $default-light_yellow;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 100px;
+	float: left;
+}
+
+
+.colors15 {
+	padding: 50px;
+	background-color: $default-steel_blue;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 100px;
+	float: left;
+}
+
+.colors16 {
+	padding: 50px;
+	background-color: $default-dark_yellow;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 100px;
+	float: left;
+}
+
+
+
+
+.colors17 {
+	padding: 50px;
+	background-color: $default-dark_orange;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 100px;
+	float: left;
+}
+
+
+
+
+
+.colors18 {
+	padding: 50px;
+	background-color: $default-forest_green;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 100px;
+	float: left;
+}
+
+
+.colors19 {
+	padding: 50px;
+	background-color: $default-plum;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 100px;
+	float: left;
+}
+
+
+
+.colors20 {
+	padding: 50px;
+	background-color: $default-maroon;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 100px;
+	float: left;
+
+}
+
+
+
+.colors21 {
+	padding: 50px;
+	background-color: $default-grey;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 100px;
+	float: left;
+}
+
+
+.bright_colors {
+	margin: 100px
+}
+
+.pastel_colors {
+	margin-top: 100px;
+	padding-top: 100px;
+	clear: both;
+}
+
+.dark_colors {
+	margin-top: 100px;
+	padding-top: 100px;
+	clear: both;
+}
+
+.fun_fonts {
+	padding-top: 100px;
+	margin-top: 100px;
+	clear: both;
+	font-size: 30px;
+}
+
+.font1 {
+	font-family: $default-fun_font1;
+}
+
+.font2 {
+	font-family: $default-fun_font2;
+}
+
+
+.font3 {
+	font-family: $default-fun_font3;
+}
+
+
+.font4 {
+	font-family: $default-fun_font4;
+}
+
+
+.font5 {
+	font-family: $default-fun_font5;
+}
+
+
+.font6 {
+	font-family: $default-fun_font6;
+}
+
+
+.font7 {
+	font-family: $default-fun_font7;
+}
+
+p {
+	font-size: 40px;
+	font-family: Arial;
+	margin-top: 100px;
+}
+
+.oval {
+    @extend .button1;
+}
+
+.square {
+	@extend .button2;
+}
+
+.rectangle {
+	@extend .button3;
+}
+
+.circle {
+	@extend .button4;
+}
